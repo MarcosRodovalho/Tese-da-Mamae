@@ -4,6 +4,8 @@ Este repositório reúne o material de trabalho de um artigo acadêmico desenvol
 
 O arquivo principal do projeto é [ARTIGO_LIVRO_IMAGETICO.md](./ARTIGO_LIVRO_IMAGETICO.md). Nele está organizada a versão inicial completa do artigo, com resumo, introdução, referencial teórico, metodologia, análise da experiência, considerações finais e referências.
 
+O acompanhamento da evolução do trabalho está em [ACOMPANHAMENTO_PROJETO.md](./ACOMPANHAMENTO_PROJETO.md). Esse arquivo reúne o plano de execução, o status atual, o histórico de progresso e os próximos passos da escrita.
+
 Este projeto serve para:
 
 - concentrar a escrita do artigo em um único arquivo;
